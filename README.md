@@ -6,3 +6,6 @@ In terminal type `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebr
 
 #### git
 In temrminal type `brew install git`
+
+#### ssh
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
