@@ -2,5 +2,7 @@
 ## Installation
 
 #### homebrew
-1. Open the Terminal app.
-2. Type `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+In terminal type `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+#### git
+In temrminal type `brew install git`
