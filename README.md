@@ -10,7 +10,8 @@ In temrminal type `brew install git`
 #### ssh
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
-####
+#### .zshrc
+`plugins=(git autojump vim-interaction tmux fzf)`
 ```
 alias ga='git add'
 alias gaa='git add .'
